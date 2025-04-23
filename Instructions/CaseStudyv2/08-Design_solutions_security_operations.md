@@ -24,8 +24,12 @@ The company has a new security optimization project for customer environments. T
 **Security and Activity Logs**
 
 * What are different ways Tailwind Traders could collect events, performance data, or custom data provided through the API? Evaluate a solution and explain your decision-making process.
+* - Defender for endpoint, Azure monitor, API management.
 * What are the different ways Tailwind Traders could prevent, detect, and respond to threats with increased visibility into (and control over) the security of your Azure resources? Evaluate a solution and explain your decision-making process.
+* - Defender for cloud
 * How are you incorporating Azure Security Operations services available to users to protect their data, applications, and other assets in Microsoft Azure?
+* - defender for cloud, azure monitoring
+
 
 ### Resources
 
