@@ -21,5 +21,8 @@ The company has a new security optimization project for customer environments. T
 
 * What could Tailwind Traders do to increase the organization's ability to rapidly address security concerns without waiting for a longer planning and testing cycle of a waterfall model? Evaluate a standard and explain your decision-making
 process.
+* - Change the methodology to DevSecOps, Agile, Implementation of CI/CD, API management platform, threat modelling tools
 * What security strategy components could Tailwind Traders use to  mitigate breaches for new applications deployed in Azure?
+* - Threat analysis, OWASP, ZAP,Thread modelling, Policies implementation
 * How are you enforcing Application Security for all users to protect their identity, data, and other assets in Microsoft Azure?
+* - Entra ID, Azure Key Vault, Managed Identity, Application Firewall (WAF)
