@@ -19,5 +19,8 @@ This repository contains case studies for the SC-100: Microsoft Cybersecurity Ar
 * [Module 13: Design solutions for security posture management in hybrid and multi-cloud environments](/Instructions/CaseStudyv2/13-Evaluate_security_posture.md)
 * [Module 14: Design solutions for securing server and client endpoints](/Instructions/CaseStudyv2/14-Design_solutions_securing_server_client_endpoints.md)
 
-#Key reference
-Azure MCSB (https://learn.microsoft.com/en-us/security/benchmark/azure/overview)
+# Key reference
+- Azure MCSB (https://learn.microsoft.com/en-us/security/benchmark/azure/overview)
+- Reference study guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100
+- ChatGPT prompt for practice: I want you to act as a study partner for the Microsoft Certified: Microsoft Cybersecurity Architect. You will come up with 50 questions and do not proceed to the next question until I answer the current question. You will use multiple choice answers. You will let me answer before you proceed. You will tell me if I answered correctly. Then you will explain why each question is right and if I get the question wrong. Then you will move on to the next question until all 50 questions are answered.
+
