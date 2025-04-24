@@ -18,3 +18,6 @@ This repository contains case studies for the SC-100: Microsoft Cybersecurity Ar
 * [Module 12: Specify requirements for securing SaaS PaaS and IaaS services](/Instructions/CaseStudyv2/12-Specify_requirements_securing_PaaS_IaaS_and_SaaS.md)
 * [Module 13: Design solutions for security posture management in hybrid and multi-cloud environments](/Instructions/CaseStudyv2/13-Evaluate_security_posture.md)
 * [Module 14: Design solutions for securing server and client endpoints](/Instructions/CaseStudyv2/14-Design_solutions_securing_server_client_endpoints.md)
+
+#Key reference
+Azure MCSB (https://learn.microsoft.com/en-us/security/benchmark/azure/overview)
